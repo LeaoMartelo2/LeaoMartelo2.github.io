@@ -1,15 +1,38 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <script>
-        function playSound() {
-            var audio = new Audio('audio.mp3'); // Replace 'your-audio-file.mp3' with the path to your audio file
-            audio.play();
-        }
-    </script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Image and Video Player</title>
+<style>
+  #mediaContainer {
+    text-align: center;
+  }
+  #mediaContainer img {
+    cursor: pointer;
+  }
+</style>
 </head>
 <body>
-    <img src="image.png" alt="Image" onclick="playSound()" style="cursor: pointer;">
+
+<div id="mediaContainer">
+  <img src="image.png" alt="Click to play video" id="thumbnail">
+  <video controls id="videoPlayer" style="display: none;">
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<script>
+  document.getElementById('thumbnail').addEventListener('click', function() {
+    var thumbnail = document.getElementById('thumbnail');
+    var videoPlayer = document.getElementById('videoPlayer');
+
+    thumbnail.style.display = 'none';
+    videoPlayer.style.display = 'block';
+    videoPlayer.play();
+  });
+</script>
+
 </body>
 </html>
-
