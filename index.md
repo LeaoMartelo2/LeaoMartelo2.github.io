@@ -9,7 +9,7 @@
 
 ---
 [Wireframe MapEditor](https://github.com/LeaoMartelo2/wireframe_editor)
-
+<img src="images/wireframe_editor.png?raw=true"/>
 ---
 [LogNest](https://github.com/LeaoMartelo2/lognest)
 <img src="images/lognest.png?raw=true"/>
@@ -29,5 +29,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
