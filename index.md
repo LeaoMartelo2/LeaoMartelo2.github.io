@@ -1,6 +1,8 @@
 ## Portfolio
 
 ---
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact)
+---
 
 ###  Open Source Projects im currently working on 
 

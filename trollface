@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Turn down for what</title>
+<style>
+  #mediaContainer {
+    text-align: center;
+  }
+  #mediaContainer img {
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+
+<div id="mediaContainer">
+  <img src="image.png" alt="Click to play video" id="thumbnail">
+  <video controls id="videoPlayer" style="display: none;">
+    <source src="video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+<script>
+  document.getElementById('thumbnail').addEventListener('click', function() {
+    var thumbnail = document.getElementById('thumbnail');
+    var videoPlayer = document.getElementById('videoPlayer');
+
+    thumbnail.style.display = 'none';
+    videoPlayer.style.display = 'block';
+    videoPlayer.play();
+  });
+</script>
+
+</body>
+</html>
