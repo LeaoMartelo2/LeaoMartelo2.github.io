@@ -2,28 +2,26 @@
 
 ---
 
-### Category Name 1 
+###  Open Source Projects im currently working on 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wireframe Game](https://github.com/LeaoMartelo2/wireframe_game)
+<img src="images/wireframe_engine.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Wireframe MapEditor](https://github.com/LeaoMartelo2/wireframe_editor)
+
+---
+[LogNest](https://github.com/LeaoMartelo2/lognest)
+<img src="images/lognest.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Some other projects i've worked on
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [ImchadaEngine](https://github.com/LeaoMartelo2/ImchadaEngine)
+- [Recycling Game](https://github.com/LeaoMartelo2/recycling_game)
+- [Nameless terminal game](https://github.com/LeaoMartelo2/makefile_git)
+- [DingRune CTJS module](https://github.com/LeaoMartelo2/DingRune)
 
 ---
 
