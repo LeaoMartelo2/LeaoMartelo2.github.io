@@ -16,16 +16,19 @@
 ###  Open Source Projects im currently working on 
 
 [Wireframe Game](https://github.com/LeaoMartelo2/wireframe_game)
+
 Game / Game Engine with a wireframe view art-style
 <img src="images/wireframe_engine.png?raw=true"/>
 
 ---
 [Wireframe MapEditor](https://github.com/LeaoMartelo2/wireframe_editor)
+
 Map / Level Editor for Wireframe Game
 <img src="images/wireframe_editor.png?raw=true"/>
 
 ---
 [LogNest](https://github.com/LeaoMartelo2/lognest)
+
 Simple header file only library in C to easily make log files 
 <img src="images/lognest.png?raw=true"/>
 
@@ -47,5 +50,4 @@ Simple header file only library in C to easily make log files
 
 
 
----
 <!-- Remove above link if you don't want to attibute -->
