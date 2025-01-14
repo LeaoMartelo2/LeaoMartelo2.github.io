@@ -13,7 +13,7 @@
 
 ---
 
-###  Open Source Projects im currently working on 
+###  Projects im currently working on 
 
 [Wireframe Game](https://github.com/LeaoMartelo2/wireframe_game)
 
