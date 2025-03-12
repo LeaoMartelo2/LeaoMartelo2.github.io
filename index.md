@@ -2,10 +2,6 @@
 
 ---
 
-- I enjoy coding, specially in C and similar.
-- Enjoy Game development.
-- Currently studying computer science.
-
 ---
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leaomartelo2&layout=compact&hide=zig)
