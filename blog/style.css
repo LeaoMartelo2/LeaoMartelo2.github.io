@@ -28,6 +28,7 @@ a:hover {
     color: yellow;
 }
 
+
 .centered {
     text-align: center;
     padding-left: 250px;
@@ -56,3 +57,11 @@ a:hover {
     overflow-x: auto; 
     /*font-family: monospace; */
 }
+
+
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+
