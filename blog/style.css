@@ -29,6 +29,36 @@ a:hover {
 }
 
 
+.centered {
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+.justified {
+    text-align: left; 
+    display: inline-block;
+    text-indent: 35px;
+
+    font-size: 20px;
+}
+
+.image-border {
+    border: 5px solid #1e90ff; 
+    padding: 5px; 
+    display: inline-block; 
+}
+
+.code-block {
+    background-color: #000000; 
+    color: #FFFFFF;
+    border: 1px solid #ccc; 
+    padding: 10px; 
+    overflow-x: auto; 
+    /*font-family: monospace; */
+}
+
+
 table.center {
     margin-left: auto; 
     margin-right: auto;
